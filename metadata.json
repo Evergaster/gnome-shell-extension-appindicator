@@ -4,12 +4,12 @@
         "46",
         "47",
         "48",
-        "49"
+        "undefined"
     ],
-    "gettext-domain": "AppIndicatorExtension",
-    "settings-schema": "org.gnome.shell.extensions.appindicator",
-    "uuid": "appindicatorsupport@rgcjonas.gmail.com",
-    "name": "AppIndicator and KStatusNotifierItem Support",
+    "gettext-domain": "AppIndicatorExtensionPlus",
+    "settings-schema": "org.gnome.shell.extensions.appindicator.Plus",
+    "uuid": "garciaromeroeverardo38@proton.me",
+    "name": "AppIndicatorplus and KStatusNotifierItem Support",
     "description": "Adds AppIndicator, KStatusNotifierItem and legacy Tray icons support to the Shell",
     "url": "https://github.com/ubuntu/gnome-shell-extension-appindicator"
 }
